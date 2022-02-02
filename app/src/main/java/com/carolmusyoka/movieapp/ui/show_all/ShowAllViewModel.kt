@@ -22,7 +22,7 @@ class ShowAllViewModel(movieListType: MovieListType) : BaseViewModel(), GoToMovi
     private val movieRepository = MovieRepository()
     private val moviePage = MutableLiveData<Int>().apply { value = 1 }
     private val loadedMovieList: LiveData<List<Movie>> = when (movieListType) {
-        MovieListType.POPULAR -> {
+        MovieListType.NOW_SHOWING -> {
             moviePage.switchMap {
                 liveDataBlockScope {
                     movieRepository.loadPopularList(it) { mSnackBarText.postValue(Event(it)) }

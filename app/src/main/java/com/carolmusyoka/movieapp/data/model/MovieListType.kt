@@ -1,18 +1,16 @@
 package com.carolmusyoka.movieapp.data.model
 
 enum class MovieListType {
-    POPULAR {
-        override fun toString() = "Popular"
+    NOW_SHOWING {
+        override fun toString() = "Now Showing"
     },
     UPCOMING {
-        override fun toString() = "Upcoming"
+        override fun toString() = "Up-Coming"
     },
     IN_THEATERS {
         override fun toString() = "In Theaters"
     },
-    ANIMATION {
-        override fun toString(): String {
-            return "Animation"
-        }
+    TRENDING {
+
     }
 }
