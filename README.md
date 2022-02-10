@@ -1,10 +1,13 @@
 # Movie App
 
-<!-- ![logo](https://user-images.githubusercontent.com/44951692/145689946-2f101bf4-469d-465e-bd36-aca2a45321ac.png) -->
+
+<a href='https://play.google.com/store/apps/details?id=com.carolmusyoka.movieapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='170'/></a>
+
+Google Play and the Google Play logo are trademarks of Google LLC.
+
 
 The name? I know. That's why its a very basic app created initially for my sister. The name might change if she comes up with something creative😄🚀
 
-[![APK](https://img.shields.io/badge/download-APK-340000.svg)](https://github.com/carolinemusyoka/MovieApp/blob/master/app/app-debug.apk?raw=true)
 [![Platform](https://img.shields.io/badge/platform-Android-00E676.svg)](https://github.com/carolinemusyoka/MovieApp/blob/master/app/build.gradle)
 [![Language](https://img.shields.io/badge/language-kotlin-orange.svg)](https://github.com/carolinemusyoka/MovieApp/blob/master/app/build.gradle)
 [![Min sdk](https://img.shields.io/badge/minsdk-21-yellow.svg)](https://github.com/carolinemusyoka/MovieApp/blob/master/app/build.gradle)
