@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200259190625",
+    "project_id": "movieapp-26f0e",
+    "storage_bucket": "movieapp-26f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200259190625:android:f65d94e21ef635308bcf20",
+        "android_client_info": {
+          "package_name": "com.carolmusyoka.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200259190625-lm5ap263sjr89me2510fkaftj43cafjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWS-ZEOncTAGKF68cJhvQ7kmlQOAt_cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200259190625-lm5ap263sjr89me2510fkaftj43cafjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
